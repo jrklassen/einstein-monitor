@@ -1,0 +1,16 @@
+# Local environment configs (copy .env.example to create)
+.env
+.env.local
+
+# Logs
+*.log
+*.log.old
+
+# Local backups
+_backup*/
+
+# Python cache & venv
+__pycache__/
+*.py[cod]
+venv/
+.venv/
